@@ -116,4 +116,4 @@ dist
 .pnp.*
 
 #config directory
-config/default.json
+**/config/default.json
